@@ -1,6 +1,6 @@
 # python-challenge
 
-Please note, both scripts contain a reference to a csv file stored in a respective subdirectory "Resources". Please ensure this is properly set before running the script.
+Please note, both scripts contain a reference to a csv file stored in a respective subdirectory "Resources" and writes the txt file to a respective subdirectory "analysis". Please ensure these are properly set before running the script.
 
 # PyBank
 This is relatively straight forward.
